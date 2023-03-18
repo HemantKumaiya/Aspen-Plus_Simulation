@@ -1,0 +1,10 @@
+INPUT: EB.inm
+MODNAME: apmain
+RUNID: EB
+NEW_RUNID: EB
+OLD_RUNID: EB
+PDF: EB.appdf
+USERNAME: admin
+XMOD: C:\Program Files (x86)\AspenTech\Aspen Plus V8.8\Engine\xeq\apmain
+SPONLY:
+DBCONN: _4725tpj.ads
